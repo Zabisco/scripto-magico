@@ -1,0 +1,2 @@
+# scripto-magico
+scripts repository
